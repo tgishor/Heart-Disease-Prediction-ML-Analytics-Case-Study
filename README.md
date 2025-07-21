@@ -1,4 +1,4 @@
-# Heart Disease Prediction - Advanced ML Analytics Case Study
+# Heart Disease Prediction - Advanced ML Analytics Case Study 
 
 ## Tech Stack
 
